@@ -1,0 +1,20 @@
+#result1 {
+    font-size: 800%;
+}
+#result2 {
+    font-size: 800%;
+}
+#score {
+    font-size: 900%;
+}
+.waves-effect.waves-blue .waves-ripple {
+      background-color: #039be5;
+}
+.restart {
+    position: absolute;
+    bottom: 25px;
+    left: 20px;
+}
+#title{
+    font-size: 800%;
+}
